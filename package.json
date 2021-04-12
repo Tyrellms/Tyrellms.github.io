@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Tyrellms/Tyrellms.github.io.git",
+  "homepage": "http://github.com/Tyrellms/Tyrellms.github.io.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
